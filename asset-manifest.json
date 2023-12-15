@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Lidia/static/css/main.48eda925.css",
+    "main.js": "/Lidia/static/js/main.15232609.js",
+    "static/js/787.228c31f3.chunk.js": "/Lidia/static/js/787.228c31f3.chunk.js",
+    "static/media/OIG (4).jpeg": "/Lidia/static/media/OIG (4).2f3d5d1306957371c09e.jpeg",
+    "index.html": "/Lidia/index.html",
+    "main.48eda925.css.map": "/Lidia/static/css/main.48eda925.css.map",
+    "main.15232609.js.map": "/Lidia/static/js/main.15232609.js.map",
+    "787.228c31f3.chunk.js.map": "/Lidia/static/js/787.228c31f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48eda925.css",
+    "static/js/main.15232609.js"
+  ]
+}
